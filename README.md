@@ -38,8 +38,8 @@ radio_map.py is the radio map method
 pilot.py is the reduced pilots method
 integrate.py is the integration scheme
 fig1.py is the code to plot Fig. 3 in the paper  
-fig2.py is the code to plot Fig. 4 in the paper 
-fig3.py is the code to plot Fig. 5 in the paper
+fig2.py is the code to plot Fig. 4 in the paper  
+fig3.py is the code to plot Fig. 5 in the paper 
 
 ## Environment:  
 numpy                   1.19.5  
