@@ -1,4 +1,4 @@
-# reduced-pilots
+# emergency-communication
 
 ## Information:
 This is the source code for IEEE Globecom Workshop paper  
@@ -46,4 +46,4 @@ numpy                   1.19.5
 matplotlib              3.6.3  
 keras                   2.6.0  
 tensorflow-gpu          2.6.0 
-# emergency-communication
+
