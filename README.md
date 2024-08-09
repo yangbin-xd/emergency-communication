@@ -1,4 +1,4 @@
-# emergency-communications
+# emergency-communication
 
 ## Information:
 This is the source code for IEEE Globecom Workshop paper  
