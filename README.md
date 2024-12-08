@@ -19,7 +19,7 @@ _Welcome to cite this article !_
 ## Authors:  
 authors: Bin Yang∗, Hong Hao Zhang†  
 ∗University of New South Wales, Sydney, NSW 2052, Australia   
-†Shenzhen College of International Education, Shenzhen 518048, China 
+†Shenzhen College of International Education, Shenzhen 518048, China   
 Email: bin.yang@unsw.edu.au  
 
 ## Contact:  
