@@ -3,7 +3,7 @@
 ## 📝 Information:
 This is the source code for IEEE Globecom Workshop paper  
 __"MIMO Beamforming with Reduced Pilots and Radio Map for Emergency Wireless Communications"__  
-_Welcome to cite this article 📖 !_
+_Welcome to cite this article !_
 
 ```
 @inproceedings{yang2024MIMO,
@@ -66,13 +66,13 @@ __12. The integration of radio map and reduced pilots__
 python integrate.py
 ```
 
-## 🚀 Authors:  
+## 👤 Authors:  
 authors: Bin Yang∗, Hong Hao Zhang†  
 ∗University of New South Wales, Sydney, NSW 2052, Australia   
 †Shenzhen College of International Education, Shenzhen 518048, China   
 Email: bin.yang@unsw.edu.au  
 
-## Contact:  
+## 📨 Contact:  
 If you have any questions about this code, you are welcome to contact me via:  
 binyang_2020@163.com  
 
@@ -91,9 +91,9 @@ fig1.py is the code to plot Fig. 3 in the paper
 fig2.py is the code to plot Fig. 4 in the paper  
 fig3.py is the code to plot Fig. 5 in the paper 
 
-## Environment:  
+## 🚀 Environment:  
 numpy                   1.19.5  
 matplotlib              3.6.3  
 keras                   2.6.0  
 tensorflow-gpu          2.6.0 
-
+__Details please see requirements.txt__
