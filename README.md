@@ -1,7 +1,7 @@
 # 🚨 emergency-communication
 
-## Information:
-📝 This is the source code for IEEE Globecom Workshop paper  
+## 📝 Information:
+This is the source code for IEEE Globecom Workshop paper  
 __"MIMO Beamforming with Reduced Pilots and Radio Map for Emergency Wireless Communications"__  
 _Welcome to cite this article 📖 !_
 
