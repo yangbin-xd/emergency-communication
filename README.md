@@ -16,7 +16,7 @@ _Welcome to cite this article 📖 !_
 }
 ```
 
-## Please follow the following steps:
+## 🚀 Please follow the following steps:
 1. Create virtual environment for this repository  
 ```
 virtualenv env_EC
