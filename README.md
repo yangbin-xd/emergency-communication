@@ -16,7 +16,7 @@ _Welcome to cite this article 📖 !_
 }
 ```
 
-## 🚀 Please follow the following steps:
+## 🛠️ Please follow the following steps:
 1. Create virtual environment for this repository  
 ```
 virtualenv env_EC
@@ -67,7 +67,7 @@ python radio_map.py
 python integrate.py
 ```
 
-## Authors:  
+## 🚀 Authors:  
 authors: Bin Yang∗, Hong Hao Zhang†  
 ∗University of New South Wales, Sydney, NSW 2052, Australia   
 †Shenzhen College of International Education, Shenzhen 518048, China   
