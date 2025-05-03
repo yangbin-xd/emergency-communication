@@ -16,6 +16,57 @@ _Welcome to cite this article !_
 }
 ```
 
+## Please follow the following steps:
+1. Create virtual environment for this repository  
+```
+virtualenv env_EC
+```
+2. Activate the created environment
+```
+source env_EC/bin/activate
+```
+3. git clone the repository to your folder
+```
+git clone https://github.com/yangbin-xd/emergency-communication.git
+```
+4. cd to the folder
+```
+cd emergency-communication
+```
+5. pip install required modules according to the requirements
+```
+pip install -r requirements.txt --no-deps
+```
+6. __Please uninstall the numpy with high version__
+```
+pip uninstall numpy
+```
+7. __And degrade the numpy version to 1.19.5__
+```
+pip install numpy==1.19.5
+```
+
+8. Then, you can run benchmark of location-based beamforming
+```
+python GBM.py
+```
+9. And benchmark of channel knowledge map
+```
+python CKM.py
+```
+10. The proposed reduced pilots-based beamforming
+```
+python pilot.py
+```
+11. The proposed radio map-based beamforming 
+```
+python radio_map.py
+```
+12. The integration of radio map and reduced pilots
+```
+python integrate.py
+```
+
 ## Authors:  
 authors: Bin Yang∗, Hong Hao Zhang†  
 ∗University of New South Wales, Sydney, NSW 2052, Australia   
