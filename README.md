@@ -17,6 +17,7 @@ _Welcome to cite this article 📖 !_
 ```
 
 ## 🛠️ Please follow the following steps:
+<details> <summary><strong>🔧 Setup and Environment</strong></summary>
 1. Create virtual environment for this repository  
 ```
 virtualenv env_EC
@@ -66,6 +67,7 @@ python radio_map.py
 ```
 python integrate.py
 ```
+</details>
 
 ## 🚀 Authors:  
 authors: Bin Yang∗, Hong Hao Zhang†  
