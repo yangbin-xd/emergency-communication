@@ -5,7 +5,7 @@ This is the source code for IEEE Globecom Workshop paper
 __"MIMO Beamforming with Reduced Pilots and Radio Map for Emergency Wireless Communications"__  
 _Welcome to cite this article !_
 
-```
+```bibtex
 @inproceedings{yang2024MIMO,
   author={Yang, Bin and Zhang, Hong Hao},
   booktitle={Proc. IEEE Globecom Workshops (GC Wkshps)},
@@ -17,52 +17,51 @@ _Welcome to cite this article !_
 ```
 
 ## 🛠️ Please follow the following steps:
-__1. Create virtual environment for this repository__  
-```
+__1. Configure virtual environment for this repository__  
+```python
+# Create virtual environment for this repository (pip install virtualenv)  
 virtualenv env_EC
-```
-__2. Activate the created environment__
-```
+
+# Activate the created environment
 source env_EC/bin/activate
 ```
-__3. git clone the repository to your folder__
-```
+
+__2. Download the repository to local__
+```python
+# git clone the repository to your folder
 git clone https://github.com/yangbin-xd/emergency-communication.git
-```
-__4. cd to the folder__
-```
+
+# cd to the folder
 cd emergency-communication
 ```
-__5. pip install required modules according to the requirements__
-```
+
+__3. Install the required modules__
+```python
+# pip install required modules according to the requirements
 pip install -r requirements.txt --no-deps
-```
-__6. Please uninstall the numpy with high version__
-```
+
+#  Please uninstall the numpy with high version
 pip uninstall numpy
-```
-__7. And degrade the numpy version to 1.19.5__
-```
+
+# And degrade the numpy version to 1.19.5
 pip install numpy==1.19.5
-```  
-__8. Then, you can run benchmark of location-based beamforming__
 ```
+
+__4. Then, you can run files__
+```python
+# benchmark of location-based beamforming
 python GBM.py
-```
-__9. And benchmark of channel knowledge map__
-```
+
+# And benchmark of channel knowledge map
 python CKM.py
-```
-__10. The proposed reduced pilots-based beamforming__
-```
+
+# The proposed reduced pilots-based beamforming
 python pilot.py
-```
-__11. The proposed radio map-based beamforming__ 
-```
+
+# The proposed radio map-based beamforming
 python radio_map.py
-```
-__12. The integration of radio map and reduced pilots__
-```
+
+# The integration of radio map and reduced pilots
 python integrate.py
 ```
 
