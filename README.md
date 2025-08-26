@@ -19,8 +19,8 @@ _Welcome to cite this article !_
 ## 🛠️ Please follow the following steps:
 __1. Configure virtual environment for this repository__  
 ```python
-# Create virtual environment for this repository (pip install virtualenv)  
-virtualenv env_EC
+# Create virtual environment for this repository  
+python3 -m venv env_EC
 
 # Activate the created environment
 source env_EC/bin/activate
