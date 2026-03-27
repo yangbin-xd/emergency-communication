@@ -19,7 +19,7 @@ _Welcome to cite this article !_
 ## 🛠️ Please follow the following steps:
 __1. Configure virtual environment for this repository__  
 ```python
-# Create virtual environment for this repository  
+# Create virtual environment for this repository (python3.8)  
 python3 -m venv env_EC
 
 # Activate the created environment
